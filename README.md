@@ -3,9 +3,16 @@
 
 ### Project Overview  
 Crypto Day trading Signals
-My Goal here is to create a model that predicts the price of btc in short term, if successful this model can be used to day trade BTC
-...
-...
+My Goal here is to create a model that predicts the price of btc in short term, if successful this model can be used to day trade BTC 
+
+Description of dataset being used:
+
+Date is being used as the index,
+While other columns are [open, high, low, close, Volume BTC,Volume USD]
+
+Feature that can be added to this are predicting columns [open, high, low, close] each column can be a sepeate feature as day trading requires selling instead of holding for long term
+
+
 
 ### Walkthrough Demo
 
