@@ -12,7 +12,9 @@ While other columns are [open, high, low, close, Volume BTC,Volume USD]
 
 Feature that can be added to this are predicting columns [open, high, low, close] each column can be a sepeate feature as day trading requires selling instead of holding for long term
 
+Some feature that i added were moving averages( Simple and Exponential)
 
+*Note* The bottom part of the fourth notebook is still a work in progress
 
 ### Walkthrough Demo
 
@@ -21,16 +23,9 @@ Feature that can be added to this are predicting columns [open, high, low, close
 ...
 
 ### Project Flowchart
-
-...
-...
-...
-
+Project is done step by step and is easy to follow along/ ( Notebooks folder- notebooks are numbered)
 ### Project Organization
 
-...
-...
-...
 
 * `data` 
     - contains link to copy of the dataset (stored in a publicly accessible Google Drive folder)
@@ -68,9 +63,6 @@ Feature that can be added to this are predicting columns [open, high, low, close
 
 ### Dataset
 https://www.cryptodatadownload.com/data/gemini/
-...
-...
-...
 
 ### Credits & References
 
