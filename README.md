@@ -16,6 +16,12 @@ Some feature that i added were moving averages( Simple and Exponential)
 
 Baseline models used were SARIMAX, Linear Regression and Decision Tree Classifier. Out of these three models Linear regression was the best one. 
 
+After that grid search with 5 fold verification was used to find the best possible model. The best model is DecisionTreeRegressor with the following parmeters:
+max_depth: 20
+min_samples_leaf: 4
+min_samples_split: 2
+
+
 
 ### Project Flowchart
 Project is done step by step and is easy to follow along/ ( Notebooks folder- notebooks are numbered)
