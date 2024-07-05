@@ -14,16 +14,12 @@ Feature that can be added to this are predicting columns [open, high, low, close
 
 Some feature that i added were moving averages( Simple and Exponential)
 
-*Note* The bottom part of the fourth notebook is still a work in progress
+Baseline models used were SARIMAX, Linear Regression and Decision Tree Classifier. Out of these three models Linear regression was the best one. 
 
-### Walkthrough Demo
-
-...
-...
-...
 
 ### Project Flowchart
 Project is done step by step and is easy to follow along/ ( Notebooks folder- notebooks are numbered)
+
 ### Project Organization
 
 
@@ -37,23 +33,10 @@ Project is done step by step and is easy to follow along/ ( Notebooks folder- no
 * `notebooks`
     - contains all final notebooks involved in the project
 
-* `reports`
-    - contains final report which summarises the project
-
-* `references`
-    - contains papers / tutorials used in the project
-
-* `src`
-    - Contains the project source code (refactored from the notebooks)
-
-* `.gitignore`
-    - Part of Git, includes files and folders to be ignored by Git version control
 
 * `capstine_env.yml`
     - Conda environment specification
 
-* `Makefile`
-    - Automation script for the project
 
 * `README.md`
     - Project landing page (this page)
@@ -63,11 +46,3 @@ Project is done step by step and is easy to follow along/ ( Notebooks folder- no
 
 ### Dataset
 https://www.cryptodatadownload.com/data/gemini/
-
-### Credits & References
-
-...
-...
-...
-
---------
